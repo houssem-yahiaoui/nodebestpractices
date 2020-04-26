@@ -878,6 +878,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "houssem-yahiaoui",
+      "name": "Houssam Yahiaoui",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15380057?v=4",
+      "profile": "https://github.com/houssem-yahiaoui",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "nodebestpractices",
